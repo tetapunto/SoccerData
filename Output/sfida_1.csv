@@ -1,0 +1,535 @@
+id_calciatore,nome_calciatore,nome_squadra,wyrole,numero_presenze
+0.0,,,Skillful winger,1
+45.0,,,Skillful winger,5
+114.0,K. Strootman,AS Roma,Skillful winger,32
+122.0,D. Mertens,SSC Napoli,Skillful winger,38
+130.0,S. de Vrij,SS Lazio,Skillful winger,36
+174.0,F. \u0110uri\u010di\u0107,Benevento Calcio,Skillful winger,16
+192.0,J. Vukovi\u0107,Hellas Verona FC,Skillful winger,15
+394.0,B. Nuytinck,Udinese Calcio,Skillful winger,27
+625.0,M. de Roon,Atalanta Bergamasca Calcio,Skillful winger,34
+658.0,,,Skillful winger,9
+3300.0,Albiol,SSC Napoli,Skillful winger,31
+3313.0,Jos\u00e9 Callej\u00f3n,SSC Napoli,Skillful winger,38
+3318.0,S. Khedira,Juventus FC,Skillful winger,26
+3323.0,G. Higua\u00edn,AC Milan,Skillful winger,35
+3344.0,Rafinha,FC Internazionale Milano,Skillful winger,17
+3431.0,Jo\u00e3o Miranda,FC Internazionale Milano,Skillful winger,31
+3463.0,F. Fazio,AS Roma,Skillful winger,34
+3475.0,D. Perotti,AS Roma,Skillful winger,25
+3484.0,Luis Alberto,SS Lazio,Skillful winger,34
+3526.0,M. Musacchio,AC Milan,Skillful winger,15
+3531.0,C. Zapata,AC Milan,Skillful winger,12
+3543.0,Borja Valero,FC Internazionale Milano,Skillful winger,36
+3548.0,G. Rossi,,Skillful winger,9
+3710.0,K. Babacar,US Sassuolo Calcio,Skillful winger,29
+3736.0,F. Zuculini,Hellas Verona FC,Skillful winger,11
+3795.0,H. Moreno,,Skillful winger,5
+3885.0,L. Cabrera,,Skillful winger,5
+4792.0,Patric,SS Lazio,Skillful winger,12
+7849.0,W. Szcz\u0119sny,Juventus FC,Skillful winger,17
+7858.0,B. Sagna,Benevento Calcio,Skillful winger,13
+7926.0,Nani,SS Lazio,Skillful winger,18
+7949.0,Pepe Reina,AC Milan,Skillful winger,37
+7965.0,Lucas Leiva,SS Lazio,Skillful winger,36
+7982.0,D. Santon,FC Internazionale Milano,Skillful winger,15
+8148.0,Iago Falqu\u00e9,Torino FC,Skillful winger,37
+8291.0,Sandro,Benevento Calcio,Skillful winger,14
+8306.0,A. Kolarov,AS Roma,Skillful winger,35
+8327.0,E. D\u017eeko,AS Roma,Skillful winger,36
+9080.0,A. Taarabt,Genoa CFC,Skillful winger,22
+10113.0,A. Benali,FC Crotone,Skillful winger,10
+11063.0,Suso,AC Milan,Skillful winger,35
+11156.0,M. Trotta,FC Crotone,Skillful winger,34
+14745.0,C. Molinaro,Torino FC,Skillful winger,20
+14812.0,I. Peri\u0161i\u0107,FC Internazionale Milano,Skillful winger,37
+14855.0,B. H\u00f6wedes,Juventus FC,Skillful winger,3
+14903.0,T. Rinc\u00f3n,Torino FC,Skillful winger,36
+14904.0,J. Sala,UC Sampdoria,Skillful winger,13
+14922.0,R. Rodr\u00edguez,AC Milan,Skillful winger,34
+14943.0,M. Mand\u017euki\u0107,Juventus FC,Skillful winger,32
+15524.0,H. \u00c7alhano\u011flu,AC Milan,Skillful winger,31
+16922.0,,,Skillful winger,5
+20390.0,I. Abate,AC Milan,Skillful winger,17
+20395.0,M. De Sciglio,Juventus FC,Skillful winger,12
+20403.0,S. Calvano,Hellas Verona FC,Skillful winger,15
+20404.0,B. Cristante,Atalanta Bergamasca Calcio,Skillful winger,37
+20414.0,M. Valoti,Hellas Verona FC,Skillful winger,26
+20418.0,S. El Shaarawy,AS Roma,Skillful winger,33
+20422.0,Maxi L\u00f3pez,,Ball playing defender,27
+20429.0,N. Burdisso,,Ball playing defender,24
+20434.0,A. Rosi,,Ball playing defender,24
+20438.0,D. De Rossi,AS Roma,Ball playing defender,22
+20443.0,M. Pjani\u0107,Juventus FC,Ball playing defender,31
+20446.0,V. Verre,UC Sampdoria,Ball playing defender,18
+20448.0,F. Viviani,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,29
+20449.0,F. Borini,AC Milan,Ball playing defender,29
+20455.0,G. Buffon,Juventus FC,Ball playing defender,21
+20458.0,A. Barzagli,Juventus FC,Ball playing defender,25
+20459.0,L. Bonucci,AC Milan,Ball playing defender,35
+20460.0,M. C\u00e1ceres,SS Lazio,Ball playing defender,20
+20461.0,G. Chiellini,Juventus FC,Ball playing defender,25
+20465.0,S. Lichtsteiner,,Ball playing defender,27
+20468.0,E. Giaccherini,AC Chievo Verona,Ball playing defender,17
+20470.0,C. Marchisio,,Ball playing defender,15
+20472.0,S. Padoin,Cagliari Calcio,Ball playing defender,37
+20476.0,M. Borriello,,Ball playing defender,15
+20478.0,A. Matri,US Sassuolo Calcio,Ball playing defender,23
+20479.0,F. Quagliarella,UC Sampdoria,Ball playing defender,35
+20483.0,A. Mirante,Bologna FC 1909,Ball playing defender,33
+20495.0,M. Gobbi,AC Chievo Verona,Ball playing defender,24
+20503.0,S. Floccari,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,20
+20506.0,,,Ball playing defender,4
+20512.0,M. Bianchetti,Hellas Verona FC,Ball playing defender,2
+20516.0,D. Faraoni,FC Crotone,Ball playing defender,28
+20517.0,Y. Nagatomo,,Ball playing defender,11
+20518.0,Juan Jesus,AS Roma,Ball playing defender,22
+20519.0,A. Ranocchia,FC Internazionale Milano,Ball playing defender,11
+20523.0,R. \u00c1lvarez,UC Sampdoria,Ball playing defender,12
+20525.0,J. Obi,AC Chievo Verona,Ball playing defender,22
+20526.0,L. Crisetig,Bologna FC 1909,Ball playing defender,8
+20529.0,A. Poli,Bologna FC 1909,Ball playing defender,32
+20536.0,G. Pazzini,,Ball playing defender,19
+20540.0,A. Bizzarri,Udinese Calcio,Ball playing defender,32
+20550.0,\u015e. Radu,SS Lazio,Ball playing defender,31
+20556.0,A. Candreva,FC Internazionale Milano,Ball playing defender,36
+20561.0,S. Luli\u0107,SS Lazio,Ball playing defender,35
+20571.0,S. Handanovi\u010d,FC Internazionale Milano,Ball playing defender,38
+20575.0,D. Basta,SS Lazio,Ball playing defender,11
+20579.0,M. Benatia,Juventus FC,Ball playing defender,20
+20583.0,Danilo,Udinese Calcio,Ball playing defender,32
+20588.0,K. Asamoah,Juventus FC,Ball playing defender,19
+20604.0,Angelo da Costa,Bologna FC 1909,Ball playing defender,4
+20609.0,A. Costa,Benevento Calcio,Ball playing defender,16
+20626.0,Eder,FC Internazionale Milano,Ball playing defender,28
+20632.0,C. Puggioni,Benevento Calcio,Ball playing defender,23
+20633.0,S. Sorrentino,AC Chievo Verona,Ball playing defender,38
+20635.0,F. Acerbi,US Sassuolo Calcio,Ball playing defender,38
+20636.0,M. Andreolli,Cagliari Calcio,Ball playing defender,23
+20637.0,B. Cesar,,Ball playing defender,10
+20638.0,D. Dainelli,AC Chievo Verona,Ball playing defender,21
+20639.0,B. Dram\u00e9,,Ball playing defender,5
+20653.0,P. Hetemaj,AC Chievo Verona,Ball playing defender,32
+20655.0,L. Rigoni,Genoa CFC,Ball playing defender,23
+20661.0,A. Paloschi,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,35
+20662.0,S. Pellissier,AC Chievo Verona,Ball playing defender,19
+20663.0,C. Th\u00e9r\u00e9au,ACF Fiorentina,Ball playing defender,22
+20689.0,G. Ram\u00edrez,UC Sampdoria,Ball playing defender,37
+20690.0,,,Ball playing defender,9
+20707.0,S. De Maio,Bologna FC 1909,Ball playing defender,26
+20723.0,B. Salamon,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,22
+20748.0,N. Tomovi\u0107,AC Chievo Verona,Ball playing defender,29
+20749.0,A. Bertolacci,Genoa CFC,Ball playing defender,33
+20751.0,J. Cuadrado,Juventus FC,Ball playing defender,21
+20771.0,G. Pegolo,US Sassuolo Calcio,Ball playing defender,2
+20776.0,L. Rossettini,Genoa CFC,Ball playing defender,23
+20796.0,M. Destro,Bologna FC 1909,Ball playing defender,26
+20802.0,E. Viviano,UC Sampdoria,Ball playing defender,27
+20811.0,M. Silvestre,UC Sampdoria,Skillful winger,34
+20812.0,A. Acquah,Torino FC,Skillful winger,22
+20815.0,A. Barberis,FC Crotone,Skillful winger,38
+20816.0,\u00c9. Barreto,UC Sampdoria,Skillful winger,28
+20820.0,J. Ili\u010di\u0107,Atalanta Bergamasca Calcio,Skillful winger,31
+20832.0,A. Consigli,US Sassuolo Calcio,Skillful winger,37
+20841.0,A. Masiello,Atalanta Bergamasca Calcio,Skillful winger,31
+20842.0,F. Peluso,US Sassuolo Calcio,Skillful winger,31
+20845.0,G. Bonaventura,AC Milan,Skillful winger,33
+20850.0,L. Cigarini,Cagliari Calcio,Skillful winger,26
+20866.0,D. Astori,,Skillful winger,25
+20869.0,N. Murru,UC Sampdoria,Skillful winger,20
+20874.0,A. Cossu,,Skillful winger,11
+20875.0,D. Dessena,Cagliari Calcio,Skillful winger,17
+20879.0,R. Nainggolan,AS Roma,Skillful winger,31
+20911.0,P. Schiattarella,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,31
+20927.0,L. De Silvestri,Torino FC,Skillful winger,35
+20928.0,Felipe,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,30
+20929.0,A. Gamberini,,Skillful winger,23
+20935.0,R\u00f4mulo,Hellas Verona FC,Skillful winger,37
+20938.0,V. Behrami,Udinese Calcio,Skillful winger,20
+20941.0,A. Ljaji\u0107,Torino FC,Skillful winger,27
+20943.0,R. Montolivo,AC Milan,Skillful winger,18
+20947.0,A. Cerci,Hellas Verona FC,Skillful winger,24
+20949.0,Ryder Matos,Hellas Verona FC,Skillful winger,18
+20972.0,D. Di Gennaro,SS Lazio,Skillful winger,1
+21001.0,E. Hysaj,SSC Napoli,Skillful winger,35
+21004.0,V. Regini,UC Sampdoria,Skillful winger,14
+21006.0,L. Tonelli,SSC Napoli,Skillful winger,4
+21019.0,M. Valdifiori,Torino FC,Skillful winger,12
+21025.0,R. Saponara,ACF Fiorentina,Skillful winger,18
+21072.0,N. Spolli,Genoa CFC,Skillful winger,21
+21077.0,A. G\u00f3mez,Atalanta Bergamasca Calcio,Skillful winger,33
+21078.0,M. Izco,,Skillful winger,5
+21094.0,D. D'Ambrosio,FC Internazionale Milano,Skillful winger,34
+21098.0,A. Gomis,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,26
+21114.0,M. Antenucci,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,33
+21119.0,R. Meggiorini,AC Chievo Verona,Skillful winger,15
+21123.0,S. Verdi,Bologna FC 1909,Skillful winger,34
+21128.0,C. Pinsoglio,Juventus FC,Skillful winger,1
+21148.0,N. Rigoni,AC Chievo Verona,Skillful winger,14
+21162.0,P. Cannavaro,,Skillful winger,18
+21169.0,B. D\u017eemaili,Bologna FC 1909,Skillful winger,15
+21171.0,M. Ham\u0161\u00edk,SSC Napoli,Ball playing defender,38
+21173.0,C. Maggio,SSC Napoli,Ball playing defender,13
+21177.0,G. Pandev,Genoa CFC,Ball playing defender,32
+21234.0,A. Belotti,Torino FC,Ball playing defender,32
+21235.0,,,Ball playing defender,2
+21272.0,L. Antonelli,AC Milan,Ball playing defender,6
+21279.0,E. Moretti,Torino FC,Ball playing defender,22
+21280.0,M. Sampirisi,FC Crotone,Ball playing defender,31
+21282.0,D. Biondini,US Sassuolo Calcio,Ball playing defender,7
+21288.0,Miguel Veloso,,Ball playing defender,22
+21290.0,S. Sturaro,Juventus FC,Ball playing defender,12
+21291.0,V. Birsa,AC Chievo Verona,Ball playing defender,35
+21296.0,R. Palacio,Bologna FC 1909,Ball playing defender,28
+21298.0,Nicolas,Hellas Verona FC,Ball playing defender,36
+21299.0,Rafael,Cagliari Calcio,Ball playing defender,10
+21306.0,,,Ball playing defender,7
+21314.0,E. Hallfre\u00f0sson,,Ball playing defender,19
+21315.0,Jorginho,SSC Napoli,Ball playing defender,33
+21322.0,M. D'Alessandro,Benevento Calcio,Ball playing defender,16
+21350.0,M. Parolo,SS Lazio,Ball playing defender,31
+21370.0,M. Capuano,FC Crotone,Ball playing defender,25
+21373.0,S. Romagnoli,Bologna FC 1909,Ball playing defender,8
+21376.0,G. Caprari,UC Sampdoria,Ball playing defender,34
+21384.0,C. Immobile,SS Lazio,Ball playing defender,33
+21385.0,L. Insigne,SSC Napoli,Ball playing defender,37
+21415.0,A. Brignoli,Benevento Calcio,Ball playing defender,13
+21438.0,R. Inglese,AC Chievo Verona,Ball playing defender,34
+21468.0,M. Perin,Genoa CFC,Ball playing defender,37
+21494.0,A. Cordaz,FC Crotone,Ball playing defender,38
+21507.0,D. Baselli,Torino FC,Ball playing defender,32
+21517.0,E. Schiavon,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,12
+21528.0,F. Ceccherini,FC Crotone,Ball playing defender,37
+21564.0,I. Radovanovi\u0107,AC Chievo Verona,Ball playing defender,35
+21573.0,M. Silvestri,Hellas Verona FC,Ball playing defender,2
+21578.0,,,Ball playing defender,13
+21607.0,F. Cacciatore,AC Chievo Verona,Ball playing defender,33
+21620.0,J. Kurti\u010d,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,30
+21636.0,E. Lamanna,Genoa CFC,Ball playing defender,1
+21639.0,L. Ceppitelli,Cagliari Calcio,Ball playing defender,26
+21655.0,A. Stoian,FC Crotone,Ball playing defender,32
+21678.0,L. Del Pinto,Benevento Calcio,Cultured defensive midfielder,15
+21725.0,,,Cultured defensive midfielder,5
+21730.0,,,Cultured defensive midfielder,1
+21842.0,C. Biraghi,ACF Fiorentina,Cultured defensive midfielder,34
+21861.0,D. Falcinelli,ACF Fiorentina,Cultured defensive midfielder,32
+21865.0,M. Sau,Cagliari Calcio,Cultured defensive midfielder,29
+21872.0,L. Antei,Benevento Calcio,Cultured defensive midfielder,8
+21959.0,N. Giannetti,Cagliari Calcio,Cultured defensive midfielder,8
+22020.0,A. Galabinov,Genoa CFC,Cultured defensive midfielder,20
+22053.0,F. Rossi,Atalanta Bergamasca Calcio,Cultured defensive midfielder,1
+22093.0,A. Caracciolo,Hellas Verona FC,Cultured defensive midfielder,33
+22099.0,M. B\u00fcchel,Hellas Verona FC,Cultured defensive midfielder,23
+22107.0,M\u00e1rio Rui,SSC Napoli,Cultured defensive midfielder,25
+22135.0,P. Iemmello,Benevento Calcio,Cultured defensive midfielder,16
+22152.0,,,Cultured defensive midfielder,9
+22158.0,I. Cofie,Genoa CFC,Cultured defensive midfielder,12
+22162.0,F. Magnanelli,US Sassuolo Calcio,Cultured defensive midfielder,32
+22163.0,S. Missiroli,US Sassuolo Calcio,Cultured defensive midfielder,35
+22185.0,B. Martella,FC Crotone,Cultured defensive midfielder,30
+22270.0,G. Ferrari,UC Sampdoria,Skillful winger,30
+22313.0,V. Laurini,ACF Fiorentina,Skillful winger,22
+22323.0,L. Memushaj,Benevento Calcio,Skillful winger,17
+22377.0,I. M'baye,Bologna FC 1909,Skillful winger,25
+22380.0,M. Benassi,ACF Fiorentina,Skillful winger,35
+22381.0,Daniel Bessa,Genoa CFC,Skillful winger,28
+22383.0,A. Duncan,US Sassuolo Calcio,Skillful winger,26
+22552.0,V. Belec,UC Sampdoria,Skillful winger,15
+22559.0,F. Migliore,Genoa CFC,Skillful winger,6
+22566.0,A. Florenzi,AS Roma,Skillful winger,32
+22614.0,F. Lucioni,Benevento Calcio,Skillful winger,8
+22677.0,G. Angella,Udinese Calcio,Skillful winger,12
+22686.0,,,Skillful winger,1
+22695.0,N. Viola,Benevento Calcio,Skillful winger,24
+22699.0,A. Ragusa,US Sassuolo Calcio,Skillful winger,30
+22732.0,F. Pisacane,Cagliari Calcio,Skillful winger,24
+22817.0,L. Sepe,SSC Napoli,Skillful winger,1
+22864.0,,,Skillful winger,17
+22883.0,A. Izzo,Genoa CFC,Skillful winger,16
+22889.0,,,Skillful winger,2
+22933.0,L. Pavoletti,Cagliari Calcio,Skillful winger,33
+23124.0,,,Skillful winger,2
+23149.0,G. Defrel,AS Roma,Skillful winger,15
+23314.0,Diego Farias,Cagliari Calcio,Skillful winger,28
+23386.0,L. Rizzo,Atalanta Bergamasca Calcio,Skillful winger,11
+23427.0,M. Fossati,Hellas Verona FC,Skillful winger,17
+23705.0,M. Sportiello,ACF Fiorentina,Skillful winger,37
+24024.0,F. Zampano,Udinese Calcio,Skillful winger,6
+24269.0,M. Coda,Benevento Calcio,Skillful winger,24
+24838.0,G. Letizia,Benevento Calcio,Skillful winger,29
+24964.0,M. Pucciarelli,AC Chievo Verona,Skillful winger,22
+25405.0,M. Gonalons,AS Roma,Skillful winger,16
+25421.0,S. Sirigu,Torino FC,Skillful winger,37
+25437.0,B. Matuidi,Juventus FC,Skillful winger,32
+25541.0,J. Veretout,ACF Fiorentina,Skillful winger,36
+25558.0,N. N'Koulou,Torino FC,Skillful winger,37
+25601.0,C. Diabat\u00e9,Benevento Calcio,Skillful winger,11
+25726.0,K. Koulibaly,SSC Napoli,Skillful winger,35
+25849.0,F. Ghoulam,SSC Napoli,Skillful winger,11
+25878.0,T. Heurtaux,Hellas Verona FC,Skillful winger,17
+25885.0,,,Skillful winger,1
+25898.0,M. Niang,Torino FC,Skillful winger,26
+26000.0,B. Dabo,ACF Fiorentina,Skillful winger,10
+26336.0,S. Gentiletti,,Skillful winger,4
+26373.0,S. Souprayen,Hellas Verona FC,Skillful winger,22
+26518.0,C. S\u00e1nchez,,Skillful winger,9
+37732.0,L. Biglia,AC Milan,Skillful winger,28
+37739.0,D. Praet,UC Sampdoria,Skillful winger,32
+37745.0,J. Lukaku,SS Lazio,Skillful winger,30
+37959.0,,,Skillful winger,1
+38532.0,E. Zukanovi\u0107,Genoa CFC,Skillful winger,32
+40538.0,Leandro Cast\u00e1n,,Skillful winger,14
+40726.0,Allan,SSC Napoli,Skillful winger,38
+40787.0,,,Skillful winger,1
+40806.0,Felipe Anderson,SS Lazio,Skillful winger,21
+41034.0,Rafael Tol\u00f3i,Atalanta Bergamasca Calcio,Skillful winger,31
+41368.0,,,Skillful winger,1
+44251.0,Bruno Peres,,Skillful winger,18
+44510.0,Vitor Hugo,ACF Fiorentina,Skillful winger,19
+45579.0,Everton Luiz,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,10
+49857.0,A. Ajeti,FC Crotone,Skillful winger,20
+49979.0,D. Pavlovic,FC Crotone,Skillful winger,11
+49991.0,R. Freuler,Atalanta Bergamasca Calcio,Skillful winger,35
+50007.0,B. Djimsiti,Benevento Calcio,Skillful winger,30
+50069.0,S. Widmer,Udinese Calcio,Skillful winger,24
+50073.0,A. Ioni\u0163\u0103,Cagliari Calcio,Skillful winger,36
+50805.0,F. Helander,Bologna FC 1909,Skillful winger,29
+50849.0,E. Berisha,Atalanta Bergamasca Calcio,Skillful winger,31
+51064.0,E. Krafth,,Skillful winger,12
+51145.0,O. Hiljemark,Genoa CFC,,15
+51151.0,M. Rohd\u00e9n,FC Crotone,Ball playing defender,26
+56026.0,J. Stryger Larsen,Udinese Calcio,Ball playing defender,30
+69400.0,M. Badelj,SS Lazio,Ball playing defender,27
+69513.0,A. Budimir,FC Crotone,Ball playing defender,21
+69610.0,,,Ball playing defender,2
+69658.0,,,Ball playing defender,5
+69968.0,M. Brozovi\u0107,FC Internazionale Milano,Ball playing defender,31
+70084.0,Alex Sandro,Juventus FC,Ball playing defender,26
+70834.0,Guilherme,Benevento Calcio,Ball playing defender,12
+70965.0,Jo\u00e3o M\u00e1rio,FC Internazionale Milano,Ball playing defender,14
+70974.0,Iuri Medeiros,Genoa CFC,Ball playing defender,11
+72397.0,Simy,FC Crotone,Ball playing defender,23
+82266.0,L. Krej\u010d\u00ed,Bologna FC 1909,Ball playing defender,12
+83575.0,V. Chiriche\u0219,SSC Napoli,Ball playing defender,7
+85113.0,A. To\u0219ca,Benevento Calcio,Ball playing defender,13
+86243.0,D. Zapata,UC Sampdoria,Ball playing defender,31
+86301.0,L. Castro,AC Chievo Verona,Ball playing defender,25
+86309.0,B. Zuculini,,Ball playing defender,16
+86328.0,G. Pezzella,ACF Fiorentina,Ball playing defender,34
+86366.0,J. Palomino,Atalanta Bergamasca Calcio,Ball playing defender,26
+86785.0,L. L\u00f3pez,FC Internazionale Milano,Ball playing defender,1
+89186.0,P. Dybala,Juventus FC,Ball playing defender,33
+90268.0,E. Pulgar,Bologna FC 1909,Ball playing defender,32
+92900.0,C. Lykogiannis,Cagliari Calcio,Ball playing defender,11
+92908.0,V. Torosidis,Bologna FC 1909,Ball playing defender,16
+92966.0,K. Manolas,AS Roma,Ball playing defender,29
+93341.0,,,Ball playing defender,4
+99423.0,,,Ball playing defender,8
+99430.0,\u0141. Skorupski,AS Roma,Ball playing defender,1
+99452.0,A. Milik,SSC Napoli,Ball playing defender,15
+99511.0,M. St\u0119pi\u0144ski,AC Chievo Verona,Ball playing defender,22
+99661.0,T. Cionek,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,15
+99833.0,B. Bereszy\u0144ski,UC Sampdoria,Ball playing defender,31
+99902.0,P. Zieli\u0144ski,SSC Napoli,Ball playing defender,36
+101635.0,F. Caicedo,SS Lazio,Ball playing defender,22
+101742.0,C. Ansaldi,Torino FC,Ball playing defender,25
+105334.0,Douglas Costa,Juventus FC,Ball playing defender,31
+105361.0,I. Strini\u0107,AC Milan,Ball playing defender,17
+105376.0,N. Kalini\u0107,AC Milan,Ball playing defender,31
+115933.0,G. Lapadula,Genoa CFC,Ball playing defender,28
+116170.0,S. Crist\u00f3foro,ACF Fiorentina,Ball playing defender,7
+116171.0,Jo\u00e3o Pedro,Cagliari Calcio,Ball playing defender,22
+116225.0,M. Olivera,ACF Fiorentina,Ball playing defender,7
+116269.0,D. Laxalt,AC Milan,Ball playing defender,32
+116349.0,M. Vecino,FC Internazionale Milano,Ball playing defender,29
+125286.0,G. Gonz\u00e1lez,Bologna FC 1909,Ball playing defender,22
+127524.0,N. Maksimovi\u0107,,Ball playing defender,2
+127534.0,D. Lazovi\u0107,Genoa CFC,Ball playing defender,21
+131184.0,Ali Adnan,Udinese Calcio,Ball playing defender,23
+134413.0,A. Cragno,Cagliari Calcio,Ball playing defender,29
+134419.0,A. Conti,AC Milan,Ball playing defender,2
+134420.0,F. Costa,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,23
+134427.0,D. Rugani,Juventus FC,Ball playing defender,22
+134429.0,L. Capezzi,UC Sampdoria,Ball playing defender,6
+134435.0,A. Grassi,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,28
+134484.0,,,Ball playing defender,12
+134508.0,S. Fofana,Udinese Calcio,Ball playing defender,27
+135150.0,A. Cornelius,Atalanta Bergamasca Calcio,Ball playing defender,23
+135903.0,Jo\u00e3o Cancelo,FC Internazionale Milano,Ball playing defender,26
+135927.0,Andr\u00e9 Silva,,Ball playing defender,24
+137048.0,S. Simi\u010d,FC Crotone,Ball playing defender,9
+137143.0,D. Boldor,Hellas Verona FC,Skillful winger,2
+137161.0,,,Skillful winger,11
+137298.0,J. Silva,AS Roma,Skillful winger,2
+138174.0,K. Linetty,UC Sampdoria,Skillful winger,29
+138408.0,M. \u0160kriniar,FC Internazionale Milano,Skillful winger,38
+145787.0,J. Andersen,UC Sampdoria,Skillful winger,7
+146588.0,A. Romagnoli,AC Milan,Skillful winger,28
+146590.0,F. Mattiello,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,29
+149076.0,V. Eysseric,ACF Fiorentina,Skillful winger,21
+149846.0,C. Falletti,Bologna FC 1909,Skillful winger,13
+149848.0,F. Avenatti,Bologna FC 1909,Skillful winger,11
+166534.0,T. Strakosha,SS Lazio,Skillful winger,38
+170738.0,S. V\u00e4is\u00e4nen,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,7
+190167.0,L. Spinazzola,Atalanta Bergamasca Calcio,Skillful winger,18
+190168.0,A. Santurro,Bologna FC 1909,Skillful winger,1
+206314.0,M. Icardi,FC Internazionale Milano,Skillful winger,34
+206318.0,D. Biraschi,Genoa CFC,Skillful winger,23
+208696.0,M. Politano,US Sassuolo Calcio,Skillful winger,36
+208865.0,Bastos,SS Lazio,Skillful winger,21
+209400.0,D. Berardi,US Sassuolo Calcio,Skillful winger,31
+213387.0,R. Centuri\u00f3n,,Skillful winger,3
+213948.0,R. de Paul,Udinese Calcio,Skillful winger,37
+214220.0,Alisson,,Skillful winger,37
+215869.0,M. Bani,AC Chievo Verona,Skillful winger,16
+218971.0,A. Lazaar,Benevento Calcio,Skillful winger,9
+220341.0,,,Skillful winger,14
+220359.0,P. Farag\u00f2,Cagliari Calcio,Skillful winger,35
+221047.0,T. Letschert,US Sassuolo Calcio,Skillful winger,7
+222766.0,Bruno Gaspar,ACF Fiorentina,Skillful winger,15
+226200.0,M. Lazzari,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,36
+228928.0,A. Maru\u0161i\u0107,SS Lazio,Skillful winger,32
+232822.0,A. Masina,Bologna FC 1909,Skillful winger,34
+234359.0,P. Schick,AS Roma,Skillful winger,22
+234533.0,S. Perica,Udinese Calcio,Skillful winger,22
+238832.0,,,Skillful winger,11
+239288.0,S. Scuffet,Udinese Calcio,Skillful winger,6
+239290.0,E. Capradossi,AS Roma,Skillful winger,2
+239294.0,J. Mauri,AC Milan,Skillful winger,1
+239295.0,V. Parigini,Benevento Calcio,Skillful winger,21
+239298.0,F. Bonazzoli,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,12
+240042.0,D. Kownacki,UC Sampdoria,Skillful winger,22
+241676.0,R. Gagliardini,FC Internazionale Milano,Skillful winger,30
+246059.0,E. Goldaniga,US Sassuolo Calcio,Skillful winger,13
+246061.0,F. Bernardeschi,Juventus FC,Skillful winger,22
+246063.0,S. Sensi,US Sassuolo Calcio,Skillful winger,17
+246175.0,A. Petagna,Atalanta Bergamasca Calcio,Skillful winger,29
+246633.0,M. Zaccagni,Hellas Verona FC,Skillful winger,6
+248950.0,Samir,Udinese Calcio,Skillful winger,31
+250956.0,F. Ricci,FC Crotone,Skillful winger,20
+252473.0,,,Skillful winger,4
+252589.0,B. Petkovi\u0107,Hellas Verona FC,Skillful winger,25
+255670.0,C. Lombardi,Benevento Calcio,Skillful winger,17
+256478.0,D. Cataldi,Benevento Calcio,Ball playing defender,29
+257028.0,D. Calabria,AC Milan,Ball playing defender,21
+259292.0,F. Di Francesco,Bologna FC 1909,Ball playing defender,24
+260250.0,Wallace,SS Lazio,Ball playing defender,13
+262384.0,,,Ball playing defender,4
+263432.0,F. Vicari,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,34
+263433.0,A. Ferrari,Hellas Verona FC,Ball playing defender,25
+263591.0,A. Deiola,Cagliari Calcio,Ball playing defender,13
+263803.0,T. Castagne,Atalanta Bergamasca Calcio,Ball playing defender,20
+264084.0,P. Gollini,Atalanta Bergamasca Calcio,Ball playing defender,7
+265172.0,A. Bar\u00e1k,Udinese Calcio,Ball playing defender,34
+265431.0,B. Dr\u0105gowski,ACF Fiorentina,Ball playing defender,3
+265865.0,S. Milinkovi\u0107-Savi\u0107,SS Lazio,Ball playing defender,35
+267185.0,C. Dell'Orco,US Sassuolo Calcio,Ball playing defender,8
+268180.0,R. Baji\u0107,,Ball playing defender,5
+269152.0,G. Simeone,ACF Fiorentina,Ball playing defender,38
+269188.0,P. Jaroszy\u0144ski,AC Chievo Verona,Ball playing defender,11
+272280.0,G. Gaudino,AC Chievo Verona,Ball playing defender,2
+272878.0,A. Nalini,FC Crotone,Ball playing defender,23
+278813.0,S. Bastien,AC Chievo Verona,Ball playing defender,21
+280419.0,H. Hateboer,Atalanta Bergamasca Calcio,Ball playing defender,33
+283062.0,V. Milinkovi\u0107-Savi\u0107,Torino FC,Ball playing defender,1
+283832.0,F. Romagna,Cagliari Calcio,Ball playing defender,23
+284315.0,M. Rog,SSC Napoli,Ball playing defender,27
+284960.0,L. Venuti,Benevento Calcio,Ball playing defender,31
+285109.0,F. Kessi\u00e9,AC Milan,Ball playing defender,37
+286215.0,A. Meret,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,13
+286223.0,N. Barella,Cagliari Calcio,Ball playing defender,34
+286225.0,G. Felicioli,Hellas Verona FC,Ball playing defender,6
+286226.0,M. Locatelli,AC Milan,Ball playing defender,21
+288663.0,M. Caldara,Atalanta Bergamasca Calcio,Ball playing defender,24
+289122.0,R. Karsdorp,AS Roma,Ball playing defender,1
+289827.0,K. Bonifazi,Torino FC,Ball playing defender,6
+292310.0,L. Mazzitelli,US Sassuolo Calcio,Ball playing defender,20
+292991.0,M. Lemos,US Sassuolo Calcio,Ball playing defender,8
+293198.0,,,Ball playing defender,6
+295176.0,R. Gosens,Atalanta Bergamasca Calcio,Ball playing defender,21
+295273.0,G. Donsah,Bologna FC 1909,Ball playing defender,28
+298212.0,Dalbert,FC Internazionale Milano,Ball playing defender,13
+299557.0,\u00c1. Nagy,Bologna FC 1909,Ball playing defender,12
+300373.0,A. Barreca,Torino FC,Ball playing defender,9
+300669.0,A. Bali\u0107,Udinese Calcio,Ball playing defender,21
+300830.0,A. Ounas,SSC Napoli,Ball playing defender,7
+302798.0,F. Cassata,US Sassuolo Calcio,Ball playing defender,10
+302799.0,R. Mandragora,FC Crotone,Ball playing defender,36
+328333.0,L. Pellegrini,AS Roma,Ball playing defender,28
+328336.0,M. Fares,Hellas Verona FC,Ball playing defender,30
+333571.0,L. Torreira,,Ball playing defender,36
+333913.0,K. Lasagna,Udinese Calcio,Ball playing defender,29
+334817.0,L. Boy\u00e9,,Ball playing defender,11
+335634.0,D. Ceter,Cagliari Calcio,Ball playing defender,6
+337225.0,R. Aarons,Hellas Verona FC,Ball playing defender,11
+338249.0,Gil Dias,ACF Fiorentina,Ball playing defender,27
+339192.0,M. Vitale,Societ\u00e0 Polisportiva Ars et Labor 2013,Ball playing defender,2
+339791.0,\u00c1lex Berenguer,Torino FC,Ball playing defender,22
+340019.0,Gerson,AS Roma,Ball playing defender,24
+342075.0,N. Haas,Atalanta Bergamasca Calcio,Ball playing defender,7
+343925.0,D. Verde,Hellas Verona FC,Ball playing defender,30
+345740.0,Pedro Pereira,Genoa CFC,Ball playing defender,6
+346908.0,A. Murgia,SS Lazio,Skillful winger,16
+346913.0,G. Mancini,Atalanta Bergamasca Calcio,Skillful winger,11
+347024.0,,,Skillful winger,3
+347026.0,M. Tumminello,FC Crotone,Skillful winger,9
+347593.0,S. Ingelsson,Udinese Calcio,Skillful winger,7
+349102.0,S. Omeonga,Genoa CFC,Skillful winger,19
+350032.0,C. \u00dcnder,AS Roma,Skillful winger,26
+350569.0,L. \u0160imi\u0107,Societ\u00e0 Polisportiva Ars et Labor 2013,Skillful winger,6
+350992.0,S. Umar,,Skillful winger,3
+350999.0,G. Donnarumma,AC Milan,Skillful winger,38
+351010.0,P. Cutrone,AC Milan,Skillful winger,28
+352722.0,,,Skillful winger,2
+352993.0,Y. Karamoh,FC Internazionale Milano,Skillful winger,16
+354123.0,Pol Lirola,US Sassuolo Calcio,Skillful winger,24
+354470.0,,,Skillful winger,1
+354547.0,J. Jankto,Udinese Calcio,Skillful winger,36
+354552.0,S. Edera,Torino FC,Skillful winger,14
+360778.0,,,Skillful winger,1
+361214.0,,,Skillful winger,1
+361779.0,C. Keita,Bologna FC 1909,Skillful winger,3
+361807.0,R. Bentancur,Juventus FC,Skillful winger,20
+364640.0,,,Skillful winger,1
+364641.0,S. Pontisso,Udinese Calcio,Skillful winger,1
+368340.0,S. Lo Faso,ACF Fiorentina,Skillful winger,2
+368642.0,G. Crociata,FC Crotone,Skillful winger,11
+373768.0,R. Orsolini,Bologna FC 1909,Skillful winger,16
+374013.0,A. Diawara,SSC Napoli,Skillful winger,18
+376362.0,Luiz Felipe,SS Lazio,Skillful winger,18
+377757.0,Lyanco,Torino FC,Skillful winger,4
+385655.0,J. Billong,Benevento Calcio,Skillful winger,5
+388099.0,E. Bearzotti,Hellas Verona FC,Skillful winger,6
+388398.0,G. Pezzella,Udinese Calcio,Skillful winger,15
+402014.0,N. Zanellato,FC Crotone,Skillful winger,1
+402017.0,B. Gyamfi,Benevento Calcio,Skillful winger,9
+402898.0,S. Miangue,Cagliari Calcio,Skillful winger,11
+403272.0,,,Skillful winger,10
+403449.0,Rog\u00e9rio,US Sassuolo Calcio,Skillful winger,13
+403546.0,Lee Seung-Woo,Hellas Verona FC,Skillful winger,14
+404209.0,Han Kwang-Song,Cagliari Calcio,Skillful winger,7
+405597.0,A. Bastoni,Atalanta Bergamasca Calcio,Skillful winger,4
+405602.0,M. Antonucci,AS Roma,Skillful winger,2
+405608.0,,,Skillful winger,1
+405880.0,,,Skillful winger,1
+410031.0,M. Kean,Hellas Verona FC,Skillful winger,19
+412914.0,,,Skillful winger,2
+413041.0,J. El Yamiq,Genoa CFC,Skillful winger,4
+415348.0,N. Pierini,US Sassuolo Calcio,Skillful winger,3
+415809.0,F. Depaoli,AC Chievo Verona,Skillful winger,19
+417231.0,C. Adjapong,US Sassuolo Calcio,Skillful winger,16
+419204.0,M. Diaby,FC Crotone,Skillful winger,2
+424241.0,N. Milenkovi\u0107,ACF Fiorentina,Skillful winger,16
+434142.0,F. Caligara,Cagliari Calcio,Skillful winger,2
+447804.0,F. Chiesa,ACF Fiorentina,Skillful winger,36
+449978.0,M. L\u00e9ris,AC Chievo Verona,Skillful winger,4
+454457.0,E. Brignola,Benevento Calcio,Skillful winger,18
+461671.0,,,Skillful winger,1
+472938.0,L. Crosta,Cagliari Calcio,Skillful winger,1
+481329.0,P. Pellegri,,Skillful winger,6
+485464.0,,,Skillful winger,1
+491409.0,M. Barrow,Atalanta Bergamasca Calcio,Skillful winger,12
+491451.0,,,Skillful winger,1
+520774.0,,,Skillful winger,2
+523089.0,,,Skillful winger,5
+564512.0,S. Sanogo,Benevento Calcio,Skillful winger,2
